@@ -1,4 +1,4 @@
-# PYTN_KampusMerdeka_FinalProject4_VistaSasmitaPadmanagara
+# PYTN_KampusMerdeka_FinalProject4
 ## Final Project 4: Clustering
 
 1. Nabila Zulfika Hemadewi
